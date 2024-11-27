@@ -30,24 +30,10 @@ main .container {
   font-weight: bolder;
 }
 
-/* # task labels */
-
 .status-label {
   display: inline-block;
   background-color: rgb(212, 116, 26);
   color: white;
   padding: 5px 10px 5px 10px;
   font-size: 0.7rem;
-}
-
-.completed-task {
-  background-color: #449424;
-}
-
-.in-progress-task {
-  background-color: #e2c51f;
-}
-
-.backlog-task {
-  background-color: #404047;
 }
