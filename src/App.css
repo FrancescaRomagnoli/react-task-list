@@ -1,1 +1,39 @@
+/* # header */
 
+.header {
+  background-color: aquamarine;
+}
+
+.header .container {
+  height: 80px;
+  font-size: 1rem;
+  display: flex; /* Enable flexbox */
+  align-items: center;
+}
+
+/* # main */
+
+main .container {
+  padding: 15px;
+}
+
+.tasks-cat-title {
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+}
+
+.task-item {
+  padding-bottom: 15px;
+}
+
+.task-title {
+  font-weight: bolder;
+}
+
+.status-label {
+  display: inline-block;
+  background-color: rgb(212, 116, 26);
+  color: white;
+  padding: 5px 10px 5px 10px;
+  font-size: 0.7rem;
+}
