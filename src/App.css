@@ -7,7 +7,7 @@
 .header .container {
   height: 80px;
   font-size: 1rem;
-  display: flex; /* Enable flexbox */
+  display: flex;
   align-items: center;
 }
 
